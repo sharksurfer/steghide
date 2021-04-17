@@ -1,5 +1,6 @@
 Hide files inside images 
 How to use : 
+
  chmod +x steg.sh
  
  ./steg.sh
